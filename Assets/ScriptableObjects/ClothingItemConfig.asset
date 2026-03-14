@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b4b892634c747fc84ba5eeabba69784, type: 3}
+  m_Name: ClothingItemConfig
+  m_EditorClassIdentifier: 
+  items:
+    keys: 640000006500000066000000670000006800000069000000
+    values:
+    - itemName: clothing-1
+      description: 
+      icon: {fileID: -120290224, guid: 280fd24688f53ca46a4c6178228c163d, type: 3}
+      price: 100
+      canSell: 1
+      maxStack: 9
+      rarity: 1
+      defense: 10
+      durability: 10
+    - itemName: clothing-2
+      description: 
+      icon: {fileID: 1451538860, guid: 280fd24688f53ca46a4c6178228c163d, type: 3}
+      price: 100
+      canSell: 1
+      maxStack: 9
+      rarity: 1
+      defense: 10
+      durability: 10
+    - itemName: clothing-3
+      description: 
+      icon: {fileID: 143620367, guid: 280fd24688f53ca46a4c6178228c163d, type: 3}
+      price: 100
+      canSell: 1
+      maxStack: 9
+      rarity: 1
+      defense: 10
+      durability: 10
+    - itemName: clothing-4
+      description: 
+      icon: {fileID: 1101133777, guid: 280fd24688f53ca46a4c6178228c163d, type: 3}
+      price: 100
+      canSell: 1
+      maxStack: 9
+      rarity: 1
+      defense: 10
+      durability: 10
+    - itemName: clothing-5
+      description: 
+      icon: {fileID: 249354668, guid: 280fd24688f53ca46a4c6178228c163d, type: 3}
+      price: 100
+      canSell: 1
+      maxStack: 9
+      rarity: 1
+      defense: 10
+      durability: 10
+    - itemName: clothing-6
+      description: 
+      icon: {fileID: 299063666, guid: 280fd24688f53ca46a4c6178228c163d, type: 3}
+      price: 100
+      canSell: 1
+      maxStack: 9
+      rarity: 1
+      defense: 10
+      durability: 10

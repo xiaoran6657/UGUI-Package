@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26fda01316a24b9b904d69008ada427e, type: 3}
+  m_Name: ShoeItemConfig
+  m_EditorClassIdentifier: 
+  items:
+    keys: c8000000c9000000ca000000cb000000cc000000
+    values:
+    - itemName: "\u4EBA\u5B57\u62D6"
+      description: 
+      icon: {fileID: 1494624718, guid: 774cabfb9f0e1364e8cb828240b2fc52, type: 3}
+      price: 20
+      canSell: 1
+      maxStack: 9
+      rarity: 1
+      speedBoost: 0.9
+      jumpHeight: 0.5
+    - itemName: "\u677F\u978B"
+      description: 
+      icon: {fileID: -1813516433, guid: 774cabfb9f0e1364e8cb828240b2fc52, type: 3}
+      price: 40
+      canSell: 1
+      maxStack: 9
+      rarity: 2
+      speedBoost: 1.1
+      jumpHeight: 1
+    - itemName: "\u7403\u978B"
+      description: 
+      icon: {fileID: 2017505413, guid: 774cabfb9f0e1364e8cb828240b2fc52, type: 3}
+      price: 70
+      canSell: 1
+      maxStack: 9
+      rarity: 3
+      speedBoost: 1.3
+      jumpHeight: 1.6
+    - itemName: "\u957F\u9774"
+      description: 
+      icon: {fileID: -464238047, guid: 774cabfb9f0e1364e8cb828240b2fc52, type: 3}
+      price: 90
+      canSell: 1
+      maxStack: 9
+      rarity: 3
+      speedBoost: 0.8
+      jumpHeight: 0.6
+    - itemName: "\u76AE\u978B"
+      description: 
+      icon: {fileID: 759583994, guid: 774cabfb9f0e1364e8cb828240b2fc52, type: 3}
+      price: 130
+      canSell: 1
+      maxStack: 9
+      rarity: 3
+      speedBoost: 0.9
+      jumpHeight: 0.9

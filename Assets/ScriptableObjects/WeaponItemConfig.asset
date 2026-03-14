@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71c5497388f54c2faa8684c6f8d9cfda, type: 3}
+  m_Name: WeaponItemConfig
+  m_EditorClassIdentifier: 
+  items:
+    keys: 9001000091010000920100009301000094010000
+    values:
+    - itemName: "\u6728\u68CD"
+      description: 
+      icon: {fileID: -1308203916, guid: c51fa5c465cc50744b7453712e8df751, type: 3}
+      price: 40
+      canSell: 1
+      maxStack: 5
+      rarity: 2
+      basicAttackDamage: 5
+      heavyAttackDamage: 10
+      criticalHitRatio: 1.2
+      criticalHitProbability: 0.3
+      durability: 10
+    - itemName: "\u6307\u864E"
+      description: 
+      icon: {fileID: 1584344816, guid: c51fa5c465cc50744b7453712e8df751, type: 3}
+      price: 60
+      canSell: 1
+      maxStack: 5
+      rarity: 2
+      basicAttackDamage: 6
+      heavyAttackDamage: 13
+      criticalHitRatio: 1.1
+      criticalHitProbability: 0.5
+      durability: 10
+    - itemName: "\u68D2\u7403"
+      description: 
+      icon: {fileID: -445750078, guid: c51fa5c465cc50744b7453712e8df751, type: 3}
+      price: 80
+      canSell: 1
+      maxStack: 5
+      rarity: 2
+      basicAttackDamage: 9
+      heavyAttackDamage: 15
+      criticalHitRatio: 1.3
+      criticalHitProbability: 0.6
+      durability: 10
+    - itemName: "\u65A7\u5B50"
+      description: 
+      icon: {fileID: 1550656226, guid: c51fa5c465cc50744b7453712e8df751, type: 3}
+      price: 100
+      canSell: 1
+      maxStack: 5
+      rarity: 3
+      basicAttackDamage: 11
+      heavyAttackDamage: 17
+      criticalHitRatio: 1.5
+      criticalHitProbability: 0.7
+      durability: 10
+    - itemName: "\u5200"
+      description: 
+      icon: {fileID: 167910888, guid: c51fa5c465cc50744b7453712e8df751, type: 3}
+      price: 120
+      canSell: 1
+      maxStack: 5
+      rarity: 4
+      basicAttackDamage: 15
+      heavyAttackDamage: 22
+      criticalHitRatio: 1.8
+      criticalHitProbability: 0.8
+      durability: 10

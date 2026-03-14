@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef0d9c65fbe04fad950d76a21f20e6fc, type: 3}
+  m_Name: VehicleItemConfig
+  m_EditorClassIdentifier: 
+  items:
+    keys: 2c0100002d0100002e0100002f010000
+    values:
+    - itemName: "\u81EA\u884C\u8F66"
+      description: 
+      icon: {fileID: 1398720602, guid: df96cba4535148e4cbeadbdf0ed1859b, type: 3}
+      price: 120
+      canSell: 1
+      maxStack: 1
+      rarity: 2
+      speed: 2
+      energyConsumptionPerSecond: 10
+      maximumEnergyStorage: 100
+      durability: 50
+    - itemName: "\u7535\u74F6\u8F66"
+      description: 
+      icon: {fileID: 876790121, guid: df96cba4535148e4cbeadbdf0ed1859b, type: 3}
+      price: 200
+      canSell: 1
+      maxStack: 1
+      rarity: 2
+      speed: 3
+      energyConsumptionPerSecond: 10
+      maximumEnergyStorage: 150
+      durability: 60
+    - itemName: "\u75BE\u98CE\u6469\u6258"
+      description: 
+      icon: {fileID: 903521875, guid: df96cba4535148e4cbeadbdf0ed1859b, type: 3}
+      price: 400
+      canSell: 1
+      maxStack: 1
+      rarity: 3
+      speed: 5
+      energyConsumptionPerSecond: 10
+      maximumEnergyStorage: 200
+      durability: 75
+    - itemName: "\u9010\u65E5"
+      description: 
+      icon: {fileID: 674929045, guid: df96cba4535148e4cbeadbdf0ed1859b, type: 3}
+      price: 700
+      canSell: 1
+      maxStack: 1
+      rarity: 5
+      speed: 10
+      energyConsumptionPerSecond: 10
+      maximumEnergyStorage: 400
+      durability: 100
